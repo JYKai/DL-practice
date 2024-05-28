@@ -11,4 +11,4 @@
 ## Progress
 | Name            | Contents                       |
 | :-------------- | ------------------------------ | 
-| [Tensor]()      |Learn about the operating principles of tensors. |
+| [Tensor](https://github.com/JYKai/DL-practice/tree/main/01_tensor)      |텐서의 동작 원리에 대해서 알아본다. |
